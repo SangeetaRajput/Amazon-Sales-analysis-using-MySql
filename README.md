@@ -3,7 +3,7 @@
 # Problem Statemen:-
 You are working at Amazon, a leading e-commerce platform. The management has tasked you with analyzing sales data by performing different queries in sql. 
 
-Write queries for the following questions:
+# Project Aim
 
 1.List all products with a discounted price below ₹500.
 
