@@ -32,13 +32,17 @@ The analysis involves executing the following SQL queries:
 10.List all products where the category includes "Accessories."
 
 # Technologies Used
-SQL for data querying and analysis
-Google Drive for dataset and video storage
-GitHub for version control and collaboration
+&#8226; SQL for data querying and analysis
+
+&#8226; Google Drive for dataset and video storage
+
+&#8226; GitHub for version control and collaboration
 
 # Installation
 To run the SQL queries locally, follow these steps:
 
-Download the dataset from the provided link.
-Import the dataset into your SQL database management system.
-Execute the SQL queries to perform the analysis.
+&#8226; Download the dataset from the provided link.
+
+&#8226; Import the dataset into your SQL database management system.
+
+&#8226; Execute the SQL queries to perform the analysis.
