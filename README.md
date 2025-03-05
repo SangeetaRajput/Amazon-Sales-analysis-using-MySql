@@ -1,9 +1,15 @@
 # Amazon-Sales-analysis-using-MySql
 
-# Problem Statemen:-
-You are working at Amazon, a leading e-commerce platform. The management has tasked you with analyzing sales data by performing different queries in sql. 
+# Overview
+This project involves analyzing sales data from Amazon to derive insights and answer specific queries related to product discounts, reviews, and pricing. The analysis aims to facilitate data-driven decision-making by identifying trends and patterns in the sales data.
 
-# Project Aim
+# Dataset
+Dataset Link : https://drive.google.com/file/d/1hJOXNpOUXOpyjsrBt1O8MyIJHfWgzakS/view 
+
+The dataset includes information about various products, including their actual price, discounted price, category, and customer reviews.
+
+# Queries
+The analysis involves executing the following SQL queries:
 
 1.List all products with a discounted price below ₹500.
 
@@ -24,3 +30,15 @@ You are working at Amazon, a leading e-commerce platform. The management has tas
 9.Display review contents that contains words like worst, waste, poor, or not good.
 
 10.List all products where the category includes "Accessories."
+
+# Technologies Used
+SQL for data querying and analysis
+Google Drive for dataset and video storage
+GitHub for version control and collaboration
+
+# Installation
+To run the SQL queries locally, follow these steps:
+
+Download the dataset from the provided link.
+Import the dataset into your SQL database management system.
+Execute the SQL queries to perform the analysis.
